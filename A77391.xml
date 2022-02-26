@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A breif [sic] account of the severe usage of Sir John Trevor to his eldest son.</title>
+            <author>Trevor, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600-1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77391</idno>
+            <idno type="STC">Wing B4520A</idno>
+            <idno type="STC">ESTC R176240</idno>
+            <idno type="EEBO-CITATION">45789179</idno>
+            <idno type="OCLC">ocm 45789179</idno>
+            <idno type="VID">172493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172493)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2634:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A breif [sic] account of the severe usage of Sir John Trevor to his eldest son.</title>
+                  <author>Trevor, Edward.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"The petitioner, Edward Trevor ..."--First line of text.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trevor, John, --  Sir, 1637-1717.</term>
+               <term>Parental rejection --  England --  Case studies --  17th century.</term>
+               <term>Great Britain --  Social conditions --  17th century --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172493:1"/>
+            <head>A BREIF ACCOUNT OF THE Severe uſage of Sir <hi>John Trevor</hi> to his Eldeſt Son.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Petitioner, <hi>Edward Trevor,</hi> had the misfortune not to be belov'd by his Mother, from his Infancy, who was Poſſeſt with an Opinion of his being an <hi>Idiot;</hi> at the Age of Fourteen he was placed at the Miniſter's of <hi>Chiſwick,</hi> for near Four Years, leaſt being a Fool he might Diſgrace the Family; but finding that he would not paſs for ſuch, and that Place being too publick, he was taken from thence, and remov'd to his Fathers Country-houſe, at <hi>Hamſtead,</hi> where having been inſtructed in the Principles of Religion, he thought it his Duty to Receive the <hi>Bleſſed Sacrament,</hi> which he did, with the Approbation of the Miniſter of the Place.</p>
+            <p>This being an Act no ways proper for an <hi>Idiot</hi> to perform, his Mother Barbarouſly Miſuſed him, and becauſe he would not be a Fool, Reſolved he ſhould be Mad, and took occaſion, from this Act, to ſay, <hi>That the Conſideration of what he had done had driven him to Deſpair and Frenzy;</hi> Whereupon your Petitioner was, by his Mother, carried in a Coach to a Private Mad-houſe, near <hi>More-Fields,</hi> kept by one Mrs. <hi>Woodford,</hi> who is now living, where he was Confin'd Three Years and a half, and ſo Ill Uſed, that he had one of his Fore-Teeth broke out, by forceing things down his Throat, and ordered to go by the Name of <hi>Edwards,</hi> but ſeveral times offered his Liberty if he would Sign a Parchment without Reading it.</p>
+            <p>This your Petitioner refuſing to do, he was, one Evening, deſired by Mrs. <hi>Woodford</hi> to go buy ſomething for her, (which was the only time he was ſuffer'd to go out of doors by himſelf) but, in the Street, he was Siezed by two Ruffians, hurried in a Coach to the Water-ſide, put into a Boat with Menaces of Murthering him if he cry'd out, and carried on board a Veſſel at <hi>Green<g ref="char:EOLhyphen"/>wich,</hi> which Sailed that very Night, but whether bound your Petitioner is to this day unac<g ref="char:EOLhyphen"/>quainted.</p>
+            <p>But the Veſſel being Perſu'd by a <hi>French</hi> Privateer, put into <hi>Oſtend,</hi> where your Petitioner eſcap'd from them (though without Money, and half Naked) and beg'd his way to <hi>Rotterdam,</hi> where your Petitioner, for want of Neceſſaries, was forc'd to enter himſelf as a Servant at a Publick-houſe for Six Weeks, in which time he had got ſo much Money as Enabled him to get for <hi>England,</hi> which your Petitioner did (upon finding himſelf deſcrib'd in the <hi>London Gazette,</hi> with an offer of Five Pounds Reward to any body that could give any account of him Alive or Dead) being in hopes that his Parents were unacquainted with this part of his Misfortunes, but having the ill luck to be Stript of Money and Cloaths, upon his Arrival in <hi>England</hi> he was forc'd to deſire a Paſs for <hi>London,</hi> which was granted him by the Mayor of <hi>Harwich,</hi> and Signed by Juſtice <hi>Rebow,</hi> of <hi>Colcheſter.</hi>
+            </p>
+            <p>When he came to <hi>London,</hi> your Petitioner well knowing the Ill Will of his Mother towards him, would not goe to his Father's for fear of falling into her hands, but went to the Mini<g ref="char:EOLhyphen"/>ſter's of <hi>Chiſwick,</hi> who happen'd to be from home, and his Brother, who was in the houſe would not Receive him, which compelled him to ſeek Relief of Mr. <hi>Haines</hi> a Gentleman of that Place.</p>
+            <p>But your Petitioner was there but one Day before his Mother, having notice of him, took him from thence, and ſent him a ſecond time to the Mad-houſe aforeſaid, where he was Chain'd to the Floor, and had only one Arm at liberty for a conſiderable time; there he remain'd Three Years longer, but at laſt found means to eſcape from thence, and went again to the Miniſter's of <hi>Chiſwick,</hi> where, much againſt the will of his Mother, his Father paid for his Board, for one Year, though without any Mony in his Pocket, or ever being permitted to ſee his Father, tho' above Seven Years ſince he had had that happineſs; the laſt Six Months, indeed, he had a Servant allow'd, occaſioned by the ill ſtare of Health, which the Miniſter at that time labour'd under.</p>
+            <p>But before this laſt Year was Expir'd, your Petitioner had notice from Sir. <hi>Roger Puelliſton</hi> (his Brother by the Mother) that there was a Deſigne formed, to ſend him again beyond <hi>Sea,</hi> (Which your Petitioner's Mother confirm'd when he ſaw her) to Obviate which, Your Petitioner was Ad<g ref="char:EOLhyphen"/>viſed to Marry, as the beſt Expedient to ſecure him from theſe Unnatural attempts; Which he accordingly did.</p>
+            <pb facs="tcp:172493:2" rendition="simple:additions"/>
+            <p>But upon his Marrying, his Father was ſo incens'd, that he would not for ſome time allow him Bread till Counſellour <hi>Sloan</hi> upbraided him with Cruelty and Barbarity to his Eldeſt Son, and threatn'd to Sue him for a Maintainnace, to prevent which, he has ever ſince allow'd your Petitioner 20 Shil<g ref="char:EOLhyphen"/>lings a Week to be received Weekly.</p>
+            <p>Nor was this all, but when his Wife, (who is a Virtuous Woman, and of a good Family) was with Child, his Mother ſent your Petitioner word, by her own Foot-man, that She was aſſur'd that he could have no Children being an <hi>Evnuch,</hi> upon which your Petitioner was Advis'd (to Vindicate the Reputation of his Wife and Children) to Suffer himſelf to be Search'd by <hi>Surgeons;</hi> which he Submitted to, and has their Certificae under Hand and Seal to Produce.</p>
+            <p>Your Petitioner, could not for upwards of ſeventeen Years, have maintain'd his Family in Sick<g ref="char:EOLhyphen"/>neſs and in health, by this poor allowance, without contracting larger Debts then he has, had it not been for a ſmall Legacy left him by an <hi>Aunt,</hi> which has ſo far help'd him, that he is at pre<g ref="char:EOLhyphen"/>ſent But 60 <hi>l.</hi> in Debt, or thereabouts; which is now ſo preſſing upon him, that he is Daily in danger to be Flung into Goal, which would be the utter Ruin of himſelf and Family.</p>
+            <p>Your Petitioner has Repreſented his miſerable circumſtances to his Father, by the moſt moving and Pathetick Letters he was capable; and has alſo gott Gentlemen of worth and Honour to ſpeake to him to conſider his Urgent neceſſities and the great Fortune viz. upwards of 40000 l. which his Mother brought; both which, he hoped would have Induced him to have allow'd him a Com<g ref="char:EOLhyphen"/>petency in ſome meaſure anſwerable to her Fortune, But all this without any effect:</p>
+            <p>Your Majeſty is the Patroneſs of injur'd innocence.</p>
+            <p>Your Petitioner therefore moſt Humbly beggs leave, to throw himſelf at your Royall Feet, and to Implore Your Majeſty ſo far, to coſider the hardſhips your Petitioner has, and does ſtill undergo, As to make uſe of your Authority with his Father, to allow him a Maintenance fitt for the Heir of 1500 l. per <hi>Annum.</hi> (Which has been Entail'd in the Family for ſeveral hundred Years) and en<g ref="char:EOLhyphen"/>able him to afford his only Child ſuch Accompliſhments as her Age requires.</p>
+            <p>
+               <hi>And your Petitioner ſhall ever Pray.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
